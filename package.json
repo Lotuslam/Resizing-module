@@ -1,0 +1,19 @@
+{
+    "name": "image-resizing-module",
+    "version": "1.0.0",
+    "description": "Module : resize images",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "echo 'resizing project will start now'"
+    },
+    "keywords": [
+        "image resizing",
+        "module",
+        "node"
+    ],
+    "author": "Hajar Lamdichi",
+    "license": "MIT",
+    "dependencies": {
+        "sharp": "^0.32.6"
+    }
+}
